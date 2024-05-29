@@ -13,18 +13,18 @@ body {
   border: 5px solid black;
   left: 0;
   position: absolute;
-  background-image: url("eye.jpg");
+  background-image: url("verde.jpg");
   background-size: cover;
 }
 
 #left-paddle {
-  background-color: white;
+  background-color: solid black;
   left: 10px;
   height: 16px;
 }
 
 #right-paddle {
-  background-color: black;
+  background-color: solid black;
   right: 10px;
 }
 
