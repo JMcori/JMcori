@@ -20,12 +20,13 @@ body {
 #left-paddle {
   background-color: white;
   left: 10px;
-  height: 16px;
+  height: 20px;
 }
 
 #right-paddle {
   background-color: solid black;
   right: 10px;
+  height: 20px;
 }
 
 #instructions {
